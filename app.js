@@ -55,8 +55,26 @@
 // //**************Q8************ *//
 // var message = "Ali and Sami are best friends. They play cricket and football together.";
 // var messageReplaced = message.replace('and','&');
-// for(var i = 0 ; i > message.length; i++){
-//     if(message[i] === 'and'){
-        
-//     }()
+// alert(message + '\n' + "and is replaced by &" + '\n' + messageReplaced)
+
+// // SIR GLOBAL SELECT KARNA NAHI A RAHA THA g WALA
+
+// //**************Q9************ *//
+
+// var number = 472
+// alert(number.toString())
+
+// //**************Q10************ *//
+
+// var userInput = prompt("Write Any Thing")
+// alert("Ya La Bhi Bada Kar Diya " + userInput.toLocaleUpperCase())
+
+// //**************Q11************ *//
+
+// var useriNput = prompt("Write You Text Here")
+// var useriNputSplit = useriNput.split("")
+// // console.log(useriNputSplit)
+// var capitalized = useriNputSplit[0].toUpperCase()
+// var copied = useriNput.slice(1)
+// alert(capitalized+copied)
 
