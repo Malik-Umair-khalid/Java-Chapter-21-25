@@ -9,5 +9,13 @@
 // var phoneName = prompt("Enter Your Favourite Phone Name")
 // alert("The Length Of The String Is :" + '\n' + phoneName.length)
 
-//******Q3 ***********************//
+// //******Q3 ***********************//
 
+var text = "Pakistan"
+alert(text)
+alert("The Index Of n is :" + text.indexOf("n"))
+
+// //**************Q4************ *//
+
+// var text = "Hello World"
+// alert(text + '\n' + 'The last Index Of l is : ' + '\n' + text.lastIndexOf("l"))
